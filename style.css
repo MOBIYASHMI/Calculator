@@ -1,0 +1,12 @@
+/* styles for html elements created without DOM in html file */
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgb(248, 113, 2);
+}
+p{
+    max-width: 800px;
+    text-align: justify;
+    margin: auto;
+}
